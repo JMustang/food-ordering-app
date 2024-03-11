@@ -15,7 +15,7 @@ export default function Header() {
           href={""}
           className="bg-primary rounded-full text-white px-8 py-2 hover:bg-orange-400"
         >
-          Conta
+          Login
         </Link>
       </nav>
     </header>
