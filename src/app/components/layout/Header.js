@@ -13,7 +13,7 @@ export default function Header() {
         <Link href={""}>Sobre</Link>
         <Link
           href={""}
-          className="bg-primary rounded-full text-white px-8 py-2 hover:bg-orange-400"
+          className="bg-primary rounded-full text-white px-8 py-2 hover:bg-orange-400 transition-all"
         >
           Login
         </Link>
